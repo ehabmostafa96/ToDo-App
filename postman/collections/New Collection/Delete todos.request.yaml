@@ -1,0 +1,14 @@
+$kind: http-request
+description: ""
+url: http://localhost:3000/api/todos/6a902c0b5c22e62a37442bee
+method: GET
+body:
+  type: json
+  content: "{\r
+
+    \    \"title\":\"sswa\",\r
+
+    \    \"completed\":true\r
+
+    }"
+order: 1334

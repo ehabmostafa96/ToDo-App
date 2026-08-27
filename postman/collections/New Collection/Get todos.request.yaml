@@ -1,0 +1,15 @@
+$kind: http-request
+name: Get todos
+description: ""
+url: http://localhost:3000/api/todos/
+method: GET
+body:
+  type: json
+  content: "{\r
+
+    \    \"title\":\"sswa\",\r
+
+    \    \"completed\":true\r
+
+    }"
+order: 4000
